@@ -12,6 +12,7 @@ dionizyjskie:
 średniowiecze - 476ne - wiek 15
 barok - wiek 17
 romantyzm - 1 polowa 19 wieku
+młoda polska - 1890-1918
 
 
 reszta:
@@ -56,4 +57,29 @@ podział na role
 forma podawcza:
 -dialog
 -monolog
+
+podzial na tekst główny i poboczny(didaskalia)
+
+przystosowany do występywania na scenie
+
+wypowiadają się bohaterowie, brak narratora
+
+liryka:
+
+forma podawcza: 
+-monolog liryczny
+
+
+sytuacja liryczna to sytuacja w której znajduje się podmiot
+
+wypowiada się podmiot liryczny i mowi o przeżyciach i uczuciach
+
+liryka może być:
+-pośrednia
+-bezpośrednia
+-inwokacyjna
+
+podmiot liryczny może być:
+- autorem, jeżeli jest uzasadnienie w biografii
+- zbiorowy, jeżeli wypowiada się za grupę
 
